@@ -1,0 +1,50 @@
+.columnsConteiner {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.linksConteiner {
+  margin-top: 20px;
+}
+
+.columns {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.tasks {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  min-width: 50px;
+  margin-right: 10px;
+}
+
+.tasksTitle {
+  margin-bottom: 10px;
+}
+
+.tasksList {
+  background-color: bisque;
+  text-align: center;
+  padding-left: 0;
+  border-radius: 10px;
+  padding: 15px;
+  border: 2px dashed #aaa;
+  /* min-width: 100px; */
+  height: 100%;
+  /* display: flex; */
+  /* width: 100%; */
+}
+
+.tasksListContent {
+  border-radius: 10px;
+  background-color: darkkhaki;
+  cursor: grab;
+}
+
+.tasksListContent:active {
+  cursor: grabbing;
+}
