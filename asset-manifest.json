@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IncodeGroupTest/static/css/main.94d8155c.css",
+    "main.js": "/IncodeGroupTest/static/js/main.89b3bba6.js",
+    "static/js/787.3909df0c.chunk.js": "/IncodeGroupTest/static/js/787.3909df0c.chunk.js",
+    "index.html": "/IncodeGroupTest/index.html",
+    "main.94d8155c.css.map": "/IncodeGroupTest/static/css/main.94d8155c.css.map",
+    "main.89b3bba6.js.map": "/IncodeGroupTest/static/js/main.89b3bba6.js.map",
+    "787.3909df0c.chunk.js.map": "/IncodeGroupTest/static/js/787.3909df0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d8155c.css",
+    "static/js/main.89b3bba6.js"
+  ]
+}
